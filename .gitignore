@@ -1,0 +1,47 @@
+#排除
+!*.doc
+!*.txt
+
+#通用
+*.o
+*.a
+*.db
+*.log
+*.obj
+*.htm
+*.html
+*.bak
+*.tmp
+*.Cache
+*.tags*
+*~
+~$*
+
+# Build results
+[Dd]ebug
+[Rr]elease
+build
+[Bb]in
+[Oo]bj
+[Oo]utput
+
+# Altium Designer
+ProjectOutputs
+__Previews
+History
+Project Outputs for *
+CAM for *
+
+*.ERC
+*.DRC
+*.Cam
+*.rep
+*.net
+*.Dat
+*.OutJob
+*.Annotation
+*.SchDocPreview
+*.schPreview
+*.pcblib_viewstate
+*.pcbdoc_viewstate
+
